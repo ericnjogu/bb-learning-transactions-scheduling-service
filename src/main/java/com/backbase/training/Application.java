@@ -1,4 +1,4 @@
-package com.enjogu;
+package com.backbase.training;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.SpringApplication;
